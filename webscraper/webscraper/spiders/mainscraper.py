@@ -3,6 +3,7 @@ from scrapy.crawler import CrawlerProcess
 import networkx as nx
 import matplotlib.pyplot as plt
 import json
+from webscraper.items import WebscraperItem
 
 class NDBusinessSpider(scrapy.Spider):
     name = 'ndbusinesses'
@@ -63,14 +64,15 @@ class NDBusinessSpider(scrapy.Spider):
         business_id = response.meta.get('business_id')
         business_name = response.meta.get('business_name')
         res = json.loads(response.body)
+        webscraper_item = WebscraperItem()
         
         relationship_types = ["Commercial Registered Agent", "Owner Name", "Owners", "Registered Agent"]
         
         for item in res.get("DRAWER_DETAIL_LIST", []):
             if item.get('LABEL') in relationship_types:
-                yield {
-                    'business_id': business_id,
-                    'business_name': business_name,
-                    'relationship_type': item['LABEL'],
-                    'entity': item['VALUE'].split("\n")[0]
-                }
+                webscraper_item['business_id'] =  business_id,
+                webscraper_item['business_name'] = business_name,
+                webscraper_item['relationship_type'] = item['LABEL'],
+                webscraper_item['entity'] = item['VALUE'].split("\n")[0]
+                
+        yield webscraper_item
