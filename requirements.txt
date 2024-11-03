@@ -1,0 +1,5 @@
+pip install scrapy
+pip install matplotlib
+pip install networkx
+pip install graphviz
+pip install pygraphviz
