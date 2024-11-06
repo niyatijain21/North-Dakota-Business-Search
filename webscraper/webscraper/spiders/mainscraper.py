@@ -10,12 +10,6 @@ class NDBusinessSpider(scrapy.Spider):
     allowed_domains = ['firststop.sos.nd.gov']
     start_urls = ['https://firststop.sos.nd.gov/api/Records/businesssearch']
     
-    # Headers to mimic browser request
-    custom_headers = {
-        'Content-Type': 'application/json',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
-    
     def start_requests(self):
         # Search payload for businesses starting with 'X'
         payload = {
@@ -27,7 +21,10 @@ class NDBusinessSpider(scrapy.Spider):
         yield scrapy.Request(
             self.start_urls[0],
             method='POST',
-            headers=self.custom_headers,
+            headers= {
+                    'Content-Type': 'application/json',
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+                    },
             body=json.dumps(payload),
             callback=self.parse_item
         )
@@ -35,6 +32,7 @@ class NDBusinessSpider(scrapy.Spider):
     
     def parse_item(self, response):
         res = json.loads(response.body)
+        print("All keys in response:", res.keys())
         rows = res.get("rows", {})
         
         # Process each business entry
@@ -64,15 +62,16 @@ class NDBusinessSpider(scrapy.Spider):
         business_id = response.meta.get('business_id')
         business_name = response.meta.get('business_name')
         res = json.loads(response.body)
+        print("API Response:", res)
         webscraper_item = WebscraperItem()
         
         relationship_types = ["Commercial Registered Agent", "Owner Name", "Owners", "Registered Agent"]
         
         for item in res.get("DRAWER_DETAIL_LIST", []):
             if item.get('LABEL') in relationship_types:
-                webscraper_item['business_id'] =  business_id,
-                webscraper_item['business_name'] = business_name,
-                webscraper_item['relationship_type'] = item['LABEL'],
+                webscraper_item['business_id'] =  business_id
+                webscraper_item['business_name'] = business_name
+                webscraper_item['relationship_type'] = item['LABEL']
                 webscraper_item['entity'] = item['VALUE'].split("\n")[0]
                 
         yield webscraper_item
