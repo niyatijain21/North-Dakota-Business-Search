@@ -1,481 +1,469 @@
 Network Components Information:
 
-Network Group 1 (Color Value: 0.50):
-Number of nodes: 2
-Entities in this network: ['CHRISTOPHER  PERLEBERG', 'XCEL AGRONOMY LLC']
-
-Network Group 2 (Color Value: 0.49):
-Number of nodes: 2
-Entities in this network: ['KORTO C KOLLIE', 'Xavier Collections LLC']
-
-Network Group 3 (Color Value: 0.96):
-Number of nodes: 2
-Entities in this network: ['GREGORY C KRUTSINGER', 'Xcalibur Leasing Company']
-
-Network Group 4 (Color Value: 0.74):
-Number of nodes: 2
-Entities in this network: ['INCORPORATING SERVICES, LTD.', 'XAP LLC']
-
-Network Group 5 (Color Value: 0.49):
-Number of nodes: 2
-Entities in this network: ['MICHELLE  BAKKE', 'XANADU, LLC']
-
-Network Group 6 (Color Value: 0.09):
-Number of nodes: 2
-Entities in this network: ['RICK  PAULSON', 'XANADU PRODUCTS, L.L.C.']
-
-Network Group 7 (Color Value: 0.38):
-Number of nodes: 34
-Entities in this network: ['ATOS HEALTHCARE SERVICES, LLC', 'ATOS IT OUTSOURCING SERVICES, LLC', 'COMCAST BROADBAND SECURITY, LLC (dba XFINITY HOME)', 'CONDUENT BUSINESS SERVICES, LLC', 'CONDUENT GOVERNMENT SYSTEMS, LLC', 'CONDUENT HR SERVICES, LLC', 'CONDUENT HUMAN RESOURCE SERVICES, LLC', 'CONDUENT STATE & LOCAL SOLUTIONS, INC.', 'CONDUENT STATE HEALTHCARE, LLC', 'CORPORATION SERVICE COMPANY', 'MCKESSON MEDICAL-SURGICAL MEDIMART INC.', 'RingSquared Telecom LLC', 'X4I LIMITED (dba X4I LIMITED, LLC)', 'XCALIBER INTERNATIONAL LTD., L.L.C.', 'XCEL ENERGY INC.', 'XCEL ENERGY SERVICES INC.', 'XEC, Inc.', 'XEROX FINANCIAL SERVICES LLC', 'XH, LLC', 'XL INDUSTRIAL SERVICES, INC.', 'XOME FIELD SERVICES LLC', 'XOME INC.', 'XOME REALTY SERVICES LLC', 'XP SYSTEMS CORPORATION', 'XPRESSDOCS GP, LLC', 'XPRESSDOCS PARTNERS, LTD. (dba XPRESSDOCS PARTNERS, LTD., A TEXAS LP)', 'XTO ENERGY INC.', 'XTO HOLDINGS, LLC', 'XTO OFFSHORE INC.', 'Xactus, LLC', 'Xperience Title, LLC', 'XpressConnect Supply, LLC', 'Xsolla Payment Network USA, LLC', 'Xspray Pharma Inc.']
-
-Network Group 8 (Color Value: 0.68):
-Number of nodes: 2
-Entities in this network: ['PATRICIA A ROGALLA', 'XAPIC STUDIOS']
-
-Network Group 9 (Color Value: 0.75):
-Number of nodes: 2
-Entities in this network: ['ABDIKARIM A JAMA', 'XABOW EXPRESS LOGISTICS INC.']
-
-Network Group 10 (Color Value: 0.01):
-Number of nodes: 17
-Entities in this network: ['AKITA DRILLING USA CORP.', 'AKITA EQUIPMENT CORP.', 'C T CORPORATION SYSTEM', 'X Corp.', 'X Payments LLC', 'XCED AVIATION SERVICES, LLC', 'XCEL ERECTORS, INC.', 'XFIT Holdings, Inc.', 'XLHome, P.C. (dba Home Health Assessments of North Dakota, P.C.)', 'XLT Management Services, Inc.', 'XO COMMUNICATIONS SERVICES, LLC', 'XYLEM DEWATERING SOLUTIONS, INC.', 'XYLEM WATER SOLUTIONS U.S.A., INC.', 'XZILON, INC.', 'Xeris Pharmaceuticals, Inc.', 'Xigent Solutions, LLC', 'Xpressbet, LLC']
-
-Network Group 11 (Color Value: 0.86):
-Number of nodes: 2
-Entities in this network: ['XYZ Services LLC', 'ZANE  SCHOBINGER']
-
-Network Group 12 (Color Value: 0.96):
-Number of nodes: 2
-Entities in this network: ['ANDREW  SANDVIK', 'XYMTEC Industries LLC']
-
-Network Group 13 (Color Value: 0.04):
-Number of nodes: 2
-Entities in this network: ['LIGHT CONSULTING & COACHING LLC', 'XXXXX Holdings LLC']
-
-Network Group 14 (Color Value: 0.50):
-Number of nodes: 2
-Entities in this network: ['TODD J SCHULZ', 'XXI CENTURY LTD.']
-
-Network Group 15 (Color Value: 0.14):
+Network Group 1 (Color Value: 0.84):
 Number of nodes: 6
 Entities in this network: ['Registered Agents Inc', 'X Block Inc', 'XWind Services Ltd.', 'XactlyOne Foundation', 'Xpert Home Lending Inc.', 'xmodn security LLC']
 
-Network Group 16 (Color Value: 0.44):
+Network Group 2 (Color Value: 0.38):
 Number of nodes: 2
-Entities in this network: ['Xavier G Taylor', 'Xavier Taylor Construction']
+Entities in this network: ['ABDIKARIM A JAMA', 'XABOW EXPRESS LOGISTICS INC.']
 
-Network Group 17 (Color Value: 0.60):
-Number of nodes: 2
-Entities in this network: ['DARIN  POWELL', 'XTS Holdings, LLC']
-
-Network Group 18 (Color Value: 0.94):
-Number of nodes: 2
-Entities in this network: ['KYLE  BLACK', 'XWA 2024, LLC']
-
-Network Group 19 (Color Value: 0.59):
-Number of nodes: 10
-Entities in this network: ['INCORP SERVICES, INC.', 'X-GEN PHARMACEUTICALS, INC.', 'XCHANGE TELECOM LLC', 'XConnect Texas, LLC', 'XConnect, LLC', 'XPONET (dba XPONET CORPORATION)', 'XTREME DRILLING, LLC', 'XTREME FIRE PROTECTION, LLC', 'XTTRIUM LABORATORIES, INC.', 'Xenex Disinfection Services Inc.']
-
-Network Group 20 (Color Value: 0.19):
-Number of nodes: 3
-Entities in this network: ['AAA NORTH DAKOTA REGISTERED AGENT LLC', 'Xtreme Xteriors LLC', 'xDatak LLC']
-
-Network Group 21 (Color Value: 0.84):
-Number of nodes: 2
-Entities in this network: ['COREY GULKE', 'X-TREME OUTFITTERS']
-
-Network Group 22 (Color Value: 0.77):
-Number of nodes: 2
-Entities in this network: ['GREG  PFAFF', 'XTREME PRODUCTS LLC']
-
-Network Group 23 (Color Value: 0.61):
-Number of nodes: 2
-Entities in this network: ['JONES ENTERPRISES, INC.', 'Xcalibur Entertainment']
-
-Network Group 24 (Color Value: 0.61):
-Number of nodes: 2
-Entities in this network: ['HAWLEY REALTY, INC.', 'XTREME TROPHY PROPERTIES']
-
-Network Group 25 (Color Value: 0.39):
-Number of nodes: 2
-Entities in this network: ['LEGALCORP SOLUTIONS, LLC', 'Xavier Gold Consulting Group Inc']
-
-Network Group 26 (Color Value: 0.09):
-Number of nodes: 2
-Entities in this network: ['CRAIG NICHOLAS THOMAS', 'XTREME SIGNS & GRAPHIX']
-
-Network Group 27 (Color Value: 0.91):
-Number of nodes: 2
-Entities in this network: ['WOODROW  SHORT', 'Xtreme Lawn Care LLC']
-
-Network Group 28 (Color Value: 0.93):
-Number of nodes: 2
-Entities in this network: ['Wet Work Hydrographics LLC', 'Xtreme Gun Works']
-
-Network Group 29 (Color Value: 0.81):
-Number of nodes: 2
-Entities in this network: ['DEREK  WANZEK', 'XTREME ELECTRIC INC']
-
-Network Group 30 (Color Value: 0.17):
-Number of nodes: 2
-Entities in this network: ['Will A siry', 'X-treme Detailing']
-
-Network Group 31 (Color Value: 0.90):
-Number of nodes: 2
-Entities in this network: ['GABRIEL  FRANCO', 'Xtreme Cleaning Services LLC']
-
-Network Group 32 (Color Value: 0.44):
-Number of nodes: 2
-Entities in this network: ['SCOTT  SCHMIDT', 'X-TREME FITNESS, LLC']
-
-Network Group 33 (Color Value: 0.18):
-Number of nodes: 2
-Entities in this network: ['JOSH JELINEK', 'XTREME BUILDERS']
-
-Network Group 34 (Color Value: 0.50):
-Number of nodes: 2
-Entities in this network: ['MARK L SCHUMACHER', 'XTREME AUTO, INC.']
-
-Network Group 35 (Color Value: 0.70):
-Number of nodes: 2
-Entities in this network: ['ALDIN  MEHUKIC', 'Xtreme Carpet Cleaning LLC']
-
-Network Group 36 (Color Value: 0.27):
-Number of nodes: 2
-Entities in this network: ['David Rodriguez', 'Xtreme installations']
-
-Network Group 37 (Color Value: 0.85):
-Number of nodes: 2
-Entities in this network: ['CHARLES DOSH', 'XTREME LIGHTING']
-
-Network Group 38 (Color Value: 0.41):
-Number of nodes: 2
-Entities in this network: ['Sherleen  Larson', 'XTRA PROPERTIES, LLC']
-
-Network Group 39 (Color Value: 0.85):
-Number of nodes: 2
-Entities in this network: ['DAVID  RODRIGUEZ', 'Xtreme installation LLC']
-
-Network Group 40 (Color Value: 0.30):
-Number of nodes: 2
-Entities in this network: ['PARACORP INCORPORATED', 'XTREME ELECTRICAL SERVICES, INC. (dba X ELECTRIC)']
-
-Network Group 41 (Color Value: 0.78):
-Number of nodes: 2
-Entities in this network: ['PEGGY LEE ANKELE', 'Xtra Mile Property Services LLC']
-
-Network Group 42 (Color Value: 0.40):
-Number of nodes: 2
-Entities in this network: ['Scott A Kraft', 'Xtreme Auto Detailz']
-
-Network Group 43 (Color Value: 0.15):
-Number of nodes: 2
-Entities in this network: ['TRACIE  DAY', 'Xtra-Office, Inc.']
-
-Network Group 44 (Color Value: 0.24):
-Number of nodes: 2
-Entities in this network: ['WILLIAM  LUCAS', 'XTC U.S. XPRESS INC. U.S. INC.']
-
-Network Group 45 (Color Value: 0.41):
-Number of nodes: 2
-Entities in this network: ['VOGEL LAW FIRM, LTD.', 'X-TECH LLC']
-
-Network Group 46 (Color Value: 0.20):
-Number of nodes: 2
-Entities in this network: ['LIFE LINE TECHNOLOGIES, LLC', 'Xstreme MD']
-
-Network Group 47 (Color Value: 0.53):
-Number of nodes: 2
-Entities in this network: ['Travis c Toepke', 'X-terior Solutions']
-
-Network Group 48 (Color Value: 0.67):
-Number of nodes: 2
-Entities in this network: ['KARLGAARD ENTERPRISES, LLC', 'XSTREAM CLEAN CAR WASH']
-
-Network Group 49 (Color Value: 0.89):
-Number of nodes: 2
-Entities in this network: ['RANDY KENT MILLER', 'Xsellr8r, Inc.']
-
-Network Group 50 (Color Value: 0.32):
-Number of nodes: 2
-Entities in this network: ['DALE  PIETRUSZEWSKI', 'XSIDING XTERIORS LLC']
-
-Network Group 51 (Color Value: 0.72):
-Number of nodes: 2
-Entities in this network: ['JEROME M HINDS', 'XS AUTOMATION']
-
-Network Group 52 (Color Value: 0.82):
-Number of nodes: 4
-Entities in this network: ['CORY  KUNERTH', 'X-RAY LIMA TANGO, LLC', 'XLT Pack and Ship', 'xlt taxi']
-
-Network Group 53 (Color Value: 0.17):
-Number of nodes: 2
-Entities in this network: ['LYNN  JOHNSTON', 'XSTREAM PROPERTIES, LLP']
-
-Network Group 54 (Color Value: 0.19):
-Number of nodes: 2
-Entities in this network: ['BRYCE ANDERSON & ASSOCIATES, PLLC', 'Xquisite Construction LLC']
-
-Network Group 55 (Color Value: 0.41):
-Number of nodes: 2
-Entities in this network: ['SPENSER J MILLER', 'XSM ATM Services LLC']
-
-Network Group 56 (Color Value: 0.29):
-Number of nodes: 3
-Entities in this network: ['NORTHWEST REGISTERED AGENT SERVICE, INC.', 'XRQ CORP.', 'Xpert Drywall llc']
-
-Network Group 57 (Color Value: 0.73):
-Number of nodes: 5
-Entities in this network: ['3H AGENT SERVICES, INC.', 'Cirrata Partners Insurance Agency LLC', 'XCHANGE BENEFITS, LLC', 'XPT Partners, LLC', 'XPT Specialty']
-
-Network Group 58 (Color Value: 0.81):
-Number of nodes: 2
-Entities in this network: ['Montgomery & Pender, P.C.', 'XR Solutions, LLC']
-
-Network Group 59 (Color Value: 0.86):
-Number of nodes: 2
-Entities in this network: ['Christopher Tegwe', 'Xpress Bookkeepers']
-
-Network Group 60 (Color Value: 0.02):
-Number of nodes: 2
-Entities in this network: ['NORTH DAKOTA REGISTERED AGENT SERVICES LLC', 'XTRA APPAREL CO LLC']
-
-Network Group 61 (Color Value: 0.75):
-Number of nodes: 2
-Entities in this network: ['PHILIP L MAENZA', 'Xpert Xteriors, LLC']
-
-Network Group 62 (Color Value: 0.31):
-Number of nodes: 2
-Entities in this network: ['Xiomara A. Uribe, Ecaterina M. Quintana', 'Xtravagant Elegance']
-
-Network Group 63 (Color Value: 1.00):
-Number of nodes: 2
-Entities in this network: ['ROBERT C JAMIESON', 'Xpert Concrete Coatings LLC']
-
-Network Group 64 (Color Value: 0.50):
-Number of nodes: 2
-Entities in this network: ['LEGALINC CORPORATE SERVICES INC.', 'XPON INTERNATIONAL LLC']
-
-Network Group 65 (Color Value: 0.97):
-Number of nodes: 2
-Entities in this network: ['MONEYDART GLOBAL SERVICES INC.', 'XPRESS MONEY']
-
-Network Group 66 (Color Value: 0.18):
-Number of nodes: 2
-Entities in this network: ['DANIEL B BRUNSON', 'XRPL Mining Company, LLC']
-
-Network Group 67 (Color Value: 0.43):
-Number of nodes: 2
-Entities in this network: ['RACHAEL  NADEAU', 'XPERT ENTERPRISES LLC']
-
-Network Group 68 (Color Value: 0.90):
-Number of nodes: 12
-Entities in this network: ['GXO LOGISTICS SUPPLY CHAIN, INC.', 'GXO Logistics Worldwide, LLC', 'REGISTERED AGENT SOLUTIONS, INC.', 'RXO Corporate Solutions, LLC', 'RXO Last Mile, Inc.', 'X S BROKERS INSURANCE AGENCY, INC.', 'XCLOUD, LLC', 'XETA TECHNOLOGIES, INC.', 'XN FINANCIAL SERVICES INC.', 'XPO Logistics Freight, Inc.', 'Xencom Energy Management, LLC', 'Xeratex Group, LLC']
-
-Network Group 69 (Color Value: 0.13):
-Number of nodes: 2
-Entities in this network: ['ANTHONY  BAUMGARTNER', 'XCEL AG SOLUTIONS LLC']
-
-Network Group 70 (Color Value: 0.87):
-Number of nodes: 3
-Entities in this network: ['DARCY D REIS', 'XPERIENCE HEALTH & FITNESS', 'XPERIENCE HEALTH & FITNESS LLC']
-
-Network Group 71 (Color Value: 0.71):
-Number of nodes: 2
-Entities in this network: ['DELSON  SAINTAL', 'Xperience Investments LLC']
-
-Network Group 72 (Color Value: 0.28):
-Number of nodes: 2
-Entities in this network: ['STACY  THOMAS', 'XOXO, PHOENIIX LLC']
-
-Network Group 73 (Color Value: 0.07):
-Number of nodes: 2
-Entities in this network: ['Delson Saintal', 'Xperience Barbers']
-
-Network Group 74 (Color Value: 0.01):
-Number of nodes: 2
-Entities in this network: ['ASHLEY MACK', 'XO BEAUTY']
-
-Network Group 75 (Color Value: 0.69):
-Number of nodes: 2
-Entities in this network: ['SHILO J SHUMWAY', 'Xolaria LLC']
-
-Network Group 76 (Color Value: 0.55):
-Number of nodes: 2
-Entities in this network: ['FIRST CORPORATE SOLUTIONS, INC.', 'XPEL, INC.']
-
-Network Group 77 (Color Value: 0.47):
-Number of nodes: 2
-Entities in this network: ['BROOKS  HONDL', 'Xpedition Well Service LLC']
-
-Network Group 78 (Color Value: 0.28):
-Number of nodes: 2
-Entities in this network: ['ROUGHRIDER ARMS LLC', 'XM42']
-
-Network Group 79 (Color Value: 0.67):
-Number of nodes: 2
-Entities in this network: ['MICHAEL  BERG', 'XM ACRES, LLP']
-
-Network Group 80 (Color Value: 0.53):
-Number of nodes: 2
-Entities in this network: ['MOHAMED  GARAAR', 'XL LOGISTICS LLC']
-
-Network Group 81 (Color Value: 1.00):
-Number of nodes: 2
-Entities in this network: ['COREY  GETZLAFF', 'XL TRANSPORT, LLC']
-
-Network Group 82 (Color Value: 0.92):
-Number of nodes: 2
-Entities in this network: ["CINDY  O'DAY", 'XIE XIE, LLC']
-
-Network Group 83 (Color Value: 0.55):
-Number of nodes: 2
-Entities in this network: ['DARIN K POWELL', 'XIPHOS TECHNICAL SERVICES, LLC']
-
-Network Group 84 (Color Value: 0.62):
-Number of nodes: 2
-Entities in this network: ['DAN  MASSETH', 'XL HOMES, CORP.']
-
-Network Group 85 (Color Value: 0.34):
-Number of nodes: 2
-Entities in this network: ['JUAN  ULLOA', 'XILAJU, LLC']
-
-Network Group 86 (Color Value: 0.19):
-Number of nodes: 2
-Entities in this network: ['Corey K Getzlaff', 'XL Farms']
-
-Network Group 87 (Color Value: 0.91):
-Number of nodes: 2
-Entities in this network: ['COMCAST BROADBAND SECURITY, LLC', 'Xfinity Home']
-
-Network Group 88 (Color Value: 0.33):
-Number of nodes: 2
-Entities in this network: ['CHRISTOPHER  SHERMAN', 'Xeric Holdings LLC']
-
-Network Group 89 (Color Value: 0.82):
-Number of nodes: 2
-Entities in this network: ['KAYLEN  STANLEY', 'Xero LLC']
-
-Network Group 90 (Color Value: 0.19):
-Number of nodes: 3
-Entities in this network: ['COGENCY GLOBAL INC.', 'Voxtur Appraisal Services, LLC', 'XERCOR INSURANCE SERVICES LLC']
-
-Network Group 91 (Color Value: 0.47):
-Number of nodes: 3
-Entities in this network: ['UNITED AGENT GROUP INC.', 'X4 Pharmaceuticals, Inc.', 'XENITH, LLC']
-
-Network Group 92 (Color Value: 0.36):
-Number of nodes: 2
-Entities in this network: ['THE PRENTICE-HALL CORPORATION SYSTEM, INC.', 'XEROX CORPORATION']
-
-Network Group 93 (Color Value: 0.08):
-Number of nodes: 3
-Entities in this network: ['MICHAEL S BROOKS', 'XCS Pros', 'XCS Pros, LLC']
-
-Network Group 94 (Color Value: 0.29):
-Number of nodes: 2
-Entities in this network: ['DANDELION PAYMENTS, INC.', 'Xe USA']
-
-Network Group 95 (Color Value: 0.53):
-Number of nodes: 2
-Entities in this network: ['TREVOR HARTMAN', 'Xenith Development Group']
-
-Network Group 96 (Color Value: 0.45):
-Number of nodes: 2
-Entities in this network: ['KIMBERLY  BRAUN', 'XDP Digital LLC']
-
-Network Group 97 (Color Value: 0.14):
-Number of nodes: 2
-Entities in this network: ['DAVID J KLINKHAMMER', 'XCELL DRIVING SCHOOL LLP']
-
-Network Group 98 (Color Value: 0.41):
-Number of nodes: 3
-Entities in this network: ['ANNIE  CREECH', 'Xcelerate Indoor Adventures', 'Xcelerate Indoor Adventures LLC']
-
-Network Group 99 (Color Value: 0.99):
-Number of nodes: 2
-Entities in this network: ['SEARCH COMPANY OF NORTH DAKOTA LLC', 'XCEL NDT LLC']
-
-Network Group 100 (Color Value: 0.49):
-Number of nodes: 2
-Entities in this network: ['Tanner Collette', 'Xcel Holdings']
-
-Network Group 101 (Color Value: 0.33):
-Number of nodes: 2
-Entities in this network: ['CAPITOL CORPORATE SERVICES, INC.', 'XeCare LLC']
-
-Network Group 102 (Color Value: 0.56):
-Number of nodes: 4
-Entities in this network: ['TANNER  COLLETTE', 'Xcel Automation & Electric LLC', 'Xcel Aviation LLC', 'Xcel Holdings LLC']
-
-Network Group 103 (Color Value: 0.62):
-Number of nodes: 2
-Entities in this network: ['GEORGE  POITRA', 'XGP PROPERTIES, LLC']
-
-Network Group 104 (Color Value: 0.14):
-Number of nodes: 2
-Entities in this network: ['NORTHERN STATES POWER COMPANY', 'XCEL ENERGY']
-
-Network Group 105 (Color Value: 0.85):
-Number of nodes: 2
-Entities in this network: ['Kenneth  Miller', 'XCEL TRUCKING LLC']
-
-Network Group 106 (Color Value: 0.81):
-Number of nodes: 2
-Entities in this network: ['VCORP SERVICES, LLC', 'XCMG America Financial LLC']
-
-Network Group 107 (Color Value: 0.88):
-Number of nodes: 2
-Entities in this network: ['X4I LIMITED', 'X4I LIMITED, LLC']
-
-Network Group 108 (Color Value: 0.46):
+Network Group 3 (Color Value: 0.17):
 Number of nodes: 2
 Entities in this network: ['ROXANNE  WANZEK', 'XaBeat, LLC']
 
-Network Group 109 (Color Value: 0.82):
-Number of nodes: 2
-Entities in this network: ['Diamonte Stugelmeyer', 'Xcel Detailing']
+Network Group 4 (Color Value: 0.75):
+Number of nodes: 24
+Entities in this network: ['CORPORATION SERVICE COMPANY', 'X4I LIMITED', 'X4I LIMITED, LLC', 'XCALIBER INTERNATIONAL LTD., L.L.C.', 'XCEL ENERGY INC.', 'XCEL ENERGY SERVICES INC.', 'XEC, Inc.', 'XEROX FINANCIAL SERVICES LLC', 'XH, LLC', 'XL INDUSTRIAL SERVICES, INC.', 'XOME FIELD SERVICES LLC', 'XOME INC.', 'XOME REALTY SERVICES LLC', 'XP SYSTEMS CORPORATION', 'XPRESSDOCS GP, LLC', 'XPRESSDOCS PARTNERS, LTD.', 'XTO ENERGY INC.', 'XTO HOLDINGS, LLC', 'XTO OFFSHORE INC.', 'Xactus, LLC', 'Xperience Title, LLC', 'XpressConnect Supply, LLC', 'Xsolla Payment Network USA, LLC', 'Xspray Pharma Inc.']
 
-Network Group 110 (Color Value: 0.77):
-Number of nodes: 2
-Entities in this network: ['ERIC  CHRISTIANS', 'X Realty LLC']
+Network Group 5 (Color Value: 0.72):
+Number of nodes: 3
+Entities in this network: ['UNITED AGENT GROUP INC.', 'X4 Pharmaceuticals, Inc.', 'XENITH, LLC']
 
-Network Group 111 (Color Value: 0.15):
+Network Group 6 (Color Value: 0.71):
 Number of nodes: 2
-Entities in this network: ['Elite Golf, LLC', 'X Golf Minot']
+Entities in this network: ['DAKOTA W REGISTERED AGENT LLC', 'x2VA LLC']
 
-Network Group 112 (Color Value: 0.13):
-Number of nodes: 2
-Entities in this network: ['Elite Golf 2, LLC', 'X Golf Bismarck']
-
-Network Group 113 (Color Value: 0.33):
-Number of nodes: 2
-Entities in this network: ['Oech Foods LLC', 'X FOODS']
-
-Network Group 114 (Color Value: 0.47):
-Number of nodes: 2
-Entities in this network: ['DANNY  KRAFT', 'X Mark Properties LLC']
-
-Network Group 115 (Color Value: 0.47):
-Number of nodes: 2
-Entities in this network: ['KENDALL  VETTER', 'X Diamond Partners, LLP']
-
-Network Group 116 (Color Value: 0.67):
-Number of nodes: 2
-Entities in this network: ['Tanner S Collette', 'Xcel Aviation']
-
-Network Group 117 (Color Value: 0.66):
-Number of nodes: 2
-Entities in this network: ['JARED  MILLER', 'Miller Underground, LLC']
-
-Network Group 118 (Color Value: 0.44):
+Network Group 7 (Color Value: 0.59):
 Number of nodes: 2
 Entities in this network: ['MIAN  HUSSAIN', 'X11 LLC']
 
-Network Group 119 (Color Value: 0.94):
-Number of nodes: 2
-Entities in this network: ['X ELECTRIC', 'XTREME ELECTRICAL SERVICES, INC.']
+Network Group 8 (Color Value: 0.93):
+Number of nodes: 8
+Entities in this network: ['REGISTERED AGENT SOLUTIONS, INC.', 'X S BROKERS INSURANCE AGENCY, INC.', 'XCLOUD, LLC', 'XETA TECHNOLOGIES, INC.', 'XN FINANCIAL SERVICES INC.', 'XPO Logistics Freight, Inc.', 'Xencom Energy Management, LLC', 'Xeratex Group, LLC']
 
-Network Group 120 (Color Value: 0.16):
+Network Group 9 (Color Value: 0.16):
 Number of nodes: 2
-Entities in this network: ['DAKOTA W REGISTERED AGENT LLC', 'x2VA LLC']
+Entities in this network: ['ERIC  CHRISTIANS', 'X Realty LLC']
+
+Network Group 10 (Color Value: 0.01):
+Number of nodes: 15
+Entities in this network: ['C T CORPORATION SYSTEM', 'X Corp.', 'X Payments LLC', 'XCED AVIATION SERVICES, LLC', 'XCEL ERECTORS, INC.', 'XFIT Holdings, Inc.', 'XLHome, P.C.', 'XLT Management Services, Inc.', 'XO COMMUNICATIONS SERVICES, LLC', 'XYLEM DEWATERING SOLUTIONS, INC.', 'XYLEM WATER SOLUTIONS U.S.A., INC.', 'XZILON, INC.', 'Xeris Pharmaceuticals, Inc.', 'Xigent Solutions, LLC', 'Xpressbet, LLC']
+
+Network Group 11 (Color Value: 0.18):
+Number of nodes: 2
+Entities in this network: ['DANNY  KRAFT', 'X Mark Properties LLC']
+
+Network Group 12 (Color Value: 0.66):
+Number of nodes: 2
+Entities in this network: ['Elite Golf, LLC', 'X Golf Minot']
+
+Network Group 13 (Color Value: 0.44):
+Number of nodes: 2
+Entities in this network: ['Elite Golf 2, LLC', 'X Golf Bismarck']
+
+Network Group 14 (Color Value: 0.04):
+Number of nodes: 2
+Entities in this network: ['Oech Foods LLC', 'X FOODS']
+
+Network Group 15 (Color Value: 0.41):
+Number of nodes: 3
+Entities in this network: ['PARACORP INCORPORATED', 'X ELECTRIC', 'XTREME ELECTRICAL SERVICES, INC.']
+
+Network Group 16 (Color Value: 0.17):
+Number of nodes: 2
+Entities in this network: ['KENDALL  VETTER', 'X Diamond Partners, LLP']
+
+Network Group 17 (Color Value: 0.23):
+Number of nodes: 2
+Entities in this network: ['XYZ Services LLC', 'ZANE  SCHOBINGER']
+
+Network Group 18 (Color Value: 0.47):
+Number of nodes: 2
+Entities in this network: ['ANDREW  SANDVIK', 'XYMTEC Industries LLC']
+
+Network Group 19 (Color Value: 0.10):
+Number of nodes: 2
+Entities in this network: ['LIGHT CONSULTING & COACHING LLC', 'XXXXX Holdings LLC']
+
+Network Group 20 (Color Value: 0.05):
+Number of nodes: 2
+Entities in this network: ['TODD J SCHULZ', 'XXI CENTURY LTD.']
+
+Network Group 21 (Color Value: 0.10):
+Number of nodes: 2
+Entities in this network: ['KYLE  BLACK', 'XWA 2024, LLC']
+
+Network Group 22 (Color Value: 0.58):
+Number of nodes: 10
+Entities in this network: ['INCORP SERVICES, INC.', 'X-GEN PHARMACEUTICALS, INC.', 'XCHANGE TELECOM LLC', 'XConnect Texas, LLC', 'XConnect, LLC', 'XPONET', 'XTREME DRILLING, LLC', 'XTREME FIRE PROTECTION, LLC', 'XTTRIUM LABORATORIES, INC.', 'Xenex Disinfection Services Inc.']
+
+Network Group 23 (Color Value: 0.71):
+Number of nodes: 2
+Entities in this network: ['DARIN  POWELL', 'XTS Holdings, LLC']
+
+Network Group 24 (Color Value: 0.80):
+Number of nodes: 3
+Entities in this network: ['AAA NORTH DAKOTA REGISTERED AGENT LLC', 'Xtreme Xteriors LLC', 'xDatak LLC']
+
+Network Group 25 (Color Value: 0.79):
+Number of nodes: 2
+Entities in this network: ['HAWLEY REALTY, INC.', 'XTREME TROPHY PROPERTIES']
+
+Network Group 26 (Color Value: 0.35):
+Number of nodes: 2
+Entities in this network: ['CRAIG NICHOLAS THOMAS', 'XTREME SIGNS & GRAPHIX']
+
+Network Group 27 (Color Value: 0.22):
+Number of nodes: 2
+Entities in this network: ['GREG  PFAFF', 'XTREME PRODUCTS LLC']
+
+Network Group 28 (Color Value: 0.14):
+Number of nodes: 2
+Entities in this network: ['COREY GULKE', 'X-TREME OUTFITTERS']
+
+Network Group 29 (Color Value: 0.66):
+Number of nodes: 2
+Entities in this network: ['CHARLES DOSH', 'XTREME LIGHTING']
+
+Network Group 30 (Color Value: 0.25):
+Number of nodes: 2
+Entities in this network: ['WOODROW  SHORT', 'Xtreme Lawn Care LLC']
+
+Network Group 31 (Color Value: 0.61):
+Number of nodes: 2
+Entities in this network: ['David Rodriguez', 'Xtreme installations']
+
+Network Group 32 (Color Value: 0.46):
+Number of nodes: 2
+Entities in this network: ['DAVID  RODRIGUEZ', 'Xtreme installation LLC']
+
+Network Group 33 (Color Value: 0.67):
+Number of nodes: 2
+Entities in this network: ['Wet Work Hydrographics LLC', 'Xtreme Gun Works']
+
+Network Group 34 (Color Value: 0.94):
+Number of nodes: 2
+Entities in this network: ['SCOTT  SCHMIDT', 'X-TREME FITNESS, LLC']
+
+Network Group 35 (Color Value: 0.15):
+Number of nodes: 2
+Entities in this network: ['DEREK  WANZEK', 'XTREME ELECTRIC INC']
+
+Network Group 36 (Color Value: 0.26):
+Number of nodes: 2
+Entities in this network: ['Will A siry', 'X-treme Detailing']
+
+Network Group 37 (Color Value: 0.63):
+Number of nodes: 2
+Entities in this network: ['GABRIEL  FRANCO', 'Xtreme Cleaning Services LLC']
+
+Network Group 38 (Color Value: 0.44):
+Number of nodes: 2
+Entities in this network: ['ALDIN  MEHUKIC', 'Xtreme Carpet Cleaning LLC']
+
+Network Group 39 (Color Value: 0.08):
+Number of nodes: 2
+Entities in this network: ['JOSH JELINEK', 'XTREME BUILDERS']
+
+Network Group 40 (Color Value: 0.23):
+Number of nodes: 2
+Entities in this network: ['MARK L SCHUMACHER', 'XTREME AUTO, INC.']
+
+Network Group 41 (Color Value: 0.37):
+Number of nodes: 2
+Entities in this network: ['Scott A Kraft', 'Xtreme Auto Detailz']
+
+Network Group 42 (Color Value: 0.86):
+Number of nodes: 2
+Entities in this network: ['Xiomara A. Uribe, Ecaterina M. Quintana', 'Xtravagant Elegance']
+
+Network Group 43 (Color Value: 0.71):
+Number of nodes: 2
+Entities in this network: ['TRACIE  DAY', 'Xtra-Office, Inc.']
+
+Network Group 44 (Color Value: 0.22):
+Number of nodes: 2
+Entities in this network: ['Sherleen  Larson', 'XTRA PROPERTIES, LLC']
+
+Network Group 45 (Color Value: 0.18):
+Number of nodes: 2
+Entities in this network: ['PEGGY LEE ANKELE', 'Xtra Mile Property Services LLC']
+
+Network Group 46 (Color Value: 0.08):
+Number of nodes: 2
+Entities in this network: ['NORTH DAKOTA REGISTERED AGENT SERVICES LLC', 'XTRA APPAREL CO LLC']
+
+Network Group 47 (Color Value: 0.49):
+Number of nodes: 2
+Entities in this network: ['Travis c Toepke', 'X-terior Solutions']
+
+Network Group 48 (Color Value: 0.53):
+Number of nodes: 2
+Entities in this network: ['VOGEL LAW FIRM, LTD.', 'X-TECH LLC']
+
+Network Group 49 (Color Value: 0.03):
+Number of nodes: 2
+Entities in this network: ['WILLIAM  LUCAS', 'XTC U.S. XPRESS INC. U.S. INC.']
+
+Network Group 50 (Color Value: 0.11):
+Number of nodes: 2
+Entities in this network: ['LIFE LINE TECHNOLOGIES, LLC', 'Xstreme MD']
+
+Network Group 51 (Color Value: 0.99):
+Number of nodes: 2
+Entities in this network: ['LYNN  JOHNSTON', 'XSTREAM PROPERTIES, LLP']
+
+Network Group 52 (Color Value: 0.09):
+Number of nodes: 2
+Entities in this network: ['KARLGAARD ENTERPRISES, LLC', 'XSTREAM CLEAN CAR WASH']
+
+Network Group 53 (Color Value: 0.72):
+Number of nodes: 2
+Entities in this network: ['SPENSER J MILLER', 'XSM ATM Services LLC']
+
+Network Group 54 (Color Value: 0.92):
+Number of nodes: 2
+Entities in this network: ['DALE  PIETRUSZEWSKI', 'XSIDING XTERIORS LLC']
+
+Network Group 55 (Color Value: 0.52):
+Number of nodes: 2
+Entities in this network: ['RANDY KENT MILLER', 'Xsellr8r, Inc.']
+
+Network Group 56 (Color Value: 0.78):
+Number of nodes: 2
+Entities in this network: ['JEROME M HINDS', 'XS AUTOMATION']
+
+Network Group 57 (Color Value: 0.13):
+Number of nodes: 3
+Entities in this network: ['NORTHWEST REGISTERED AGENT SERVICE, INC.', 'XRQ CORP.', 'Xpert Drywall llc']
+
+Network Group 58 (Color Value: 0.96):
+Number of nodes: 2
+Entities in this network: ['DANIEL B BRUNSON', 'XRPL Mining Company, LLC']
+
+Network Group 59 (Color Value: 0.29):
+Number of nodes: 4
+Entities in this network: ['CORY  KUNERTH', 'X-RAY LIMA TANGO, LLC', 'XLT Pack and Ship', 'xlt taxi']
+
+Network Group 60 (Color Value: 0.91):
+Number of nodes: 2
+Entities in this network: ['Montgomery & Pender, P.C.', 'XR Solutions, LLC']
+
+Network Group 61 (Color Value: 0.16):
+Number of nodes: 2
+Entities in this network: ['BRYCE ANDERSON & ASSOCIATES, PLLC', 'Xquisite Construction LLC']
+
+Network Group 62 (Color Value: 0.89):
+Number of nodes: 4
+Entities in this network: ['3H AGENT SERVICES, INC.', 'XCHANGE BENEFITS, LLC', 'XPT Partners, LLC', 'XPT Specialty']
+
+Network Group 63 (Color Value: 0.31):
+Number of nodes: 2
+Entities in this network: ['MONEYDART GLOBAL SERVICES INC.', 'XPRESS MONEY']
+
+Network Group 64 (Color Value: 0.82):
+Number of nodes: 2
+Entities in this network: ['Christopher Tegwe', 'Xpress Bookkeepers']
+
+Network Group 65 (Color Value: 0.26):
+Number of nodes: 2
+Entities in this network: ['LEGALINC CORPORATE SERVICES INC.', 'XPON INTERNATIONAL LLC']
+
+Network Group 66 (Color Value: 0.34):
+Number of nodes: 2
+Entities in this network: ['PHILIP L MAENZA', 'Xpert Xteriors, LLC']
+
+Network Group 67 (Color Value: 0.44):
+Number of nodes: 2
+Entities in this network: ['RACHAEL  NADEAU', 'XPERT ENTERPRISES LLC']
+
+Network Group 68 (Color Value: 0.59):
+Number of nodes: 2
+Entities in this network: ['ROBERT C JAMIESON', 'Xpert Concrete Coatings LLC']
+
+Network Group 69 (Color Value: 0.83):
+Number of nodes: 2
+Entities in this network: ['DELSON  SAINTAL', 'Xperience Investments LLC']
+
+Network Group 70 (Color Value: 0.82):
+Number of nodes: 3
+Entities in this network: ['DARCY D REIS', 'XPERIENCE HEALTH & FITNESS', 'XPERIENCE HEALTH & FITNESS LLC']
+
+Network Group 71 (Color Value: 0.78):
+Number of nodes: 2
+Entities in this network: ['Delson Saintal', 'Xperience Barbers']
+
+Network Group 72 (Color Value: 0.15):
+Number of nodes: 2
+Entities in this network: ['FIRST CORPORATE SOLUTIONS, INC.', 'XPEL, INC.']
+
+Network Group 73 (Color Value: 0.06):
+Number of nodes: 2
+Entities in this network: ['BROOKS  HONDL', 'Xpedition Well Service LLC']
+
+Network Group 74 (Color Value: 0.54):
+Number of nodes: 2
+Entities in this network: ['STACY  THOMAS', 'XOXO, PHOENIIX LLC']
+
+Network Group 75 (Color Value: 0.83):
+Number of nodes: 2
+Entities in this network: ['SHILO J SHUMWAY', 'Xolaria LLC']
+
+Network Group 76 (Color Value: 0.05):
+Number of nodes: 2
+Entities in this network: ['ASHLEY MACK', 'XO BEAUTY']
+
+Network Group 77 (Color Value: 0.92):
+Number of nodes: 2
+Entities in this network: ['ROUGHRIDER ARMS LLC', 'XM42']
+
+Network Group 78 (Color Value: 0.76):
+Number of nodes: 2
+Entities in this network: ['MICHAEL  BERG', 'XM ACRES, LLP']
+
+Network Group 79 (Color Value: 0.82):
+Number of nodes: 2
+Entities in this network: ['COREY  GETZLAFF', 'XL TRANSPORT, LLC']
+
+Network Group 80 (Color Value: 0.86):
+Number of nodes: 2
+Entities in this network: ['MOHAMED  GARAAR', 'XL LOGISTICS LLC']
+
+Network Group 81 (Color Value: 0.13):
+Number of nodes: 2
+Entities in this network: ['DAN  MASSETH', 'XL HOMES, CORP.']
+
+Network Group 82 (Color Value: 0.75):
+Number of nodes: 2
+Entities in this network: ['Corey K Getzlaff', 'XL Farms']
+
+Network Group 83 (Color Value: 0.03):
+Number of nodes: 2
+Entities in this network: ['DARIN K POWELL', 'XIPHOS TECHNICAL SERVICES, LLC']
+
+Network Group 84 (Color Value: 0.78):
+Number of nodes: 2
+Entities in this network: ['JUAN  ULLOA', 'XILAJU, LLC']
+
+Network Group 85 (Color Value: 0.04):
+Number of nodes: 2
+Entities in this network: ["CINDY  O'DAY", 'XIE XIE, LLC']
+
+Network Group 86 (Color Value: 0.10):
+Number of nodes: 2
+Entities in this network: ['GEORGE  POITRA', 'XGP PROPERTIES, LLC']
+
+Network Group 87 (Color Value: 0.03):
+Number of nodes: 2
+Entities in this network: ['COMCAST BROADBAND SECURITY, LLC', 'Xfinity Home']
+
+Network Group 88 (Color Value: 0.02):
+Number of nodes: 2
+Entities in this network: ['THE PRENTICE-HALL CORPORATION SYSTEM, INC.', 'XEROX CORPORATION']
+
+Network Group 89 (Color Value: 0.74):
+Number of nodes: 2
+Entities in this network: ['KAYLEN  STANLEY', 'Xero LLC']
+
+Network Group 90 (Color Value: 0.02):
+Number of nodes: 2
+Entities in this network: ['CHRISTOPHER  SHERMAN', 'Xeric Holdings LLC']
+
+Network Group 91 (Color Value: 0.74):
+Number of nodes: 2
+Entities in this network: ['COGENCY GLOBAL INC.', 'XERCOR INSURANCE SERVICES LLC']
+
+Network Group 92 (Color Value: 0.57):
+Number of nodes: 2
+Entities in this network: ['TREVOR HARTMAN', 'Xenith Development Group']
+
+Network Group 93 (Color Value: 0.86):
+Number of nodes: 2
+Entities in this network: ['CAPITOL CORPORATE SERVICES, INC.', 'XeCare LLC']
+
+Network Group 94 (Color Value: 0.04):
+Number of nodes: 2
+Entities in this network: ['DANDELION PAYMENTS, INC.', 'Xe USA']
+
+Network Group 95 (Color Value: 0.46):
+Number of nodes: 2
+Entities in this network: ['KIMBERLY  BRAUN', 'XDP Digital LLC']
+
+Network Group 96 (Color Value: 0.95):
+Number of nodes: 3
+Entities in this network: ['MICHAEL S BROOKS', 'XCS Pros', 'XCS Pros, LLC']
+
+Network Group 97 (Color Value: 0.09):
+Number of nodes: 2
+Entities in this network: ['VCORP SERVICES, LLC', 'XCMG America Financial LLC']
+
+Network Group 98 (Color Value: 0.89):
+Number of nodes: 2
+Entities in this network: ['DAVID J KLINKHAMMER', 'XCELL DRIVING SCHOOL LLP']
+
+Network Group 99 (Color Value: 0.34):
+Number of nodes: 3
+Entities in this network: ['ANNIE  CREECH', 'Xcelerate Indoor Adventures', 'Xcelerate Indoor Adventures LLC']
+
+Network Group 100 (Color Value: 0.68):
+Number of nodes: 2
+Entities in this network: ['Kenneth  Miller', 'XCEL TRUCKING LLC']
+
+Network Group 101 (Color Value: 0.45):
+Number of nodes: 2
+Entities in this network: ['SEARCH COMPANY OF NORTH DAKOTA LLC', 'XCEL NDT LLC']
+
+Network Group 102 (Color Value: 0.27):
+Number of nodes: 4
+Entities in this network: ['TANNER  COLLETTE', 'Xcel Automation & Electric LLC', 'Xcel Aviation LLC', 'Xcel Holdings LLC']
+
+Network Group 103 (Color Value: 0.05):
+Number of nodes: 2
+Entities in this network: ['Tanner Collette', 'Xcel Holdings']
+
+Network Group 104 (Color Value: 0.32):
+Number of nodes: 2
+Entities in this network: ['NORTHERN STATES POWER COMPANY', 'XCEL ENERGY']
+
+Network Group 105 (Color Value: 0.09):
+Number of nodes: 2
+Entities in this network: ['Diamonte Stugelmeyer', 'Xcel Detailing']
+
+Network Group 106 (Color Value: 0.19):
+Number of nodes: 2
+Entities in this network: ['Tanner S Collette', 'Xcel Aviation']
+
+Network Group 107 (Color Value: 0.44):
+Number of nodes: 2
+Entities in this network: ['CHRISTOPHER  PERLEBERG', 'XCEL AGRONOMY LLC']
+
+Network Group 108 (Color Value: 0.09):
+Number of nodes: 2
+Entities in this network: ['ANTHONY  BAUMGARTNER', 'XCEL AG SOLUTIONS LLC']
+
+Network Group 109 (Color Value: 0.98):
+Number of nodes: 2
+Entities in this network: ['GREGORY C KRUTSINGER', 'Xcalibur Leasing Company']
+
+Network Group 110 (Color Value: 0.40):
+Number of nodes: 2
+Entities in this network: ['JONES ENTERPRISES, INC.', 'Xcalibur Entertainment']
+
+Network Group 111 (Color Value: 0.87):
+Number of nodes: 2
+Entities in this network: ['Xavier G Taylor', 'Xavier Taylor Construction']
+
+Network Group 112 (Color Value: 0.24):
+Number of nodes: 2
+Entities in this network: ['LEGALCORP SOLUTIONS, LLC', 'Xavier Gold Consulting Group Inc']
+
+Network Group 113 (Color Value: 0.20):
+Number of nodes: 2
+Entities in this network: ['KORTO C KOLLIE', 'Xavier Collections LLC']
+
+Network Group 114 (Color Value: 0.10):
+Number of nodes: 2
+Entities in this network: ['PATRICIA A ROGALLA', 'XAPIC STUDIOS']
+
+Network Group 115 (Color Value: 0.27):
+Number of nodes: 2
+Entities in this network: ['INCORPORATING SERVICES, LTD.', 'XAP LLC']
+
+Network Group 116 (Color Value: 0.90):
+Number of nodes: 2
+Entities in this network: ['MICHELLE  BAKKE', 'XANADU, LLC']
+
+Network Group 117 (Color Value: 0.59):
+Number of nodes: 2
+Entities in this network: ['RICK  PAULSON', 'XANADU PRODUCTS, L.L.C.']

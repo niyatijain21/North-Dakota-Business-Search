@@ -5,10 +5,12 @@ from networkx.drawing.nx_agraph import graphviz_layout
 import matplotlib.pyplot as plt
 
 def create_graph(data):
+    rows = next(item['rows'] for item in data if 'rows' in item)
+    
     relationships = []
     for item in data:
-        relationships.append((item['business_name'], item['entity']))
-    print("Number of edges:", len(relationships))
+        if 'business_name' in item and 'entity' in item:
+            relationships.append((item['business_name'], item['entity']))
     
     graph = nx.Graph()
     for a, b in relationships:
@@ -55,7 +57,7 @@ def plot_graph_with_info(graph):
     plt.close()
     
 if __name__ == "__main__":
-    with open('./webscraper/NDbusinessdata.json', 'r') as f:
+    with open('./webscraper/NDbusinessesdata.json', 'r') as f:
         data = json.load(f)
 
     network = create_graph(data)

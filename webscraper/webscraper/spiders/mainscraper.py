@@ -11,7 +11,6 @@ class NDBusinessSpider(scrapy.Spider):
     start_urls = ['https://firststop.sos.nd.gov/api/Records/businesssearch']
     
     def start_requests(self):
-        # Search payload for businesses starting with 'X'
         payload = {
             "SEARCH_VALUE": "X",
             "STARTS_WITH_YN": True,
@@ -21,19 +20,22 @@ class NDBusinessSpider(scrapy.Spider):
         yield scrapy.Request(
             self.start_urls[0],
             method='POST',
-            headers= {
-                    'Content-Type': 'application/json',
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-                    },
+            headers={
+                'Content-Type': 'application/json',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            },
             body=json.dumps(payload),
             callback=self.parse_item
         )
     
-    
     def parse_item(self, response):
         res = json.loads(response.body)
-        print("All keys in response:", res.keys())
         rows = res.get("rows", {})
+        
+        # First yield the complete rows
+        rows_item = WebscraperItem()
+        rows_item['rows'] = rows
+        yield rows_item
         
         # Process each business entry
         for key, value in rows.items():
@@ -47,7 +49,8 @@ class NDBusinessSpider(scrapy.Spider):
                 callback=self.parse_business,
                 meta={
                     'business_id': business_id,
-                    'business_name': business_name
+                    'business_name': business_name,
+                    'rows': rows
                 },
                 method='GET',
                 headers={
@@ -62,16 +65,16 @@ class NDBusinessSpider(scrapy.Spider):
         business_id = response.meta.get('business_id')
         business_name = response.meta.get('business_name')
         res = json.loads(response.body)
-        print("API Response:", res)
-        webscraper_item = WebscraperItem()
         
+        # Then process individual items
         relationship_types = ["Commercial Registered Agent", "Owner Name", "Owners", "Registered Agent"]
         
         for item in res.get("DRAWER_DETAIL_LIST", []):
             if item.get('LABEL') in relationship_types:
-                webscraper_item['business_id'] =  business_id
-                webscraper_item['business_name'] = business_name
-                webscraper_item['relationship_type'] = item['LABEL']
-                webscraper_item['entity'] = item['VALUE'].split("\n")[0]
-                
-        yield webscraper_item
+                # Yield individual parameters
+                detail_item = WebscraperItem()
+                detail_item['business_id'] = business_id
+                detail_item['business_name'] = business_name
+                detail_item['relationship_type'] = item['LABEL']
+                detail_item['entity'] = item['VALUE'].split("\n")[0]
+                yield detail_item
