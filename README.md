@@ -8,4 +8,4 @@
 
 **Takeaways:**
 - There were 182 active companies extracted that start with 'X' as of Nov 2024. An additional filtering in the processing pipeline ensured we focus specifically on X-prefixed companies.
-- The graph reveals a hierarchical business registration structure in North Dakota where most X-named companies (shown as paired nodes) have single-point relationships with registered agents or owners, while a few prominent registered agents (shown as hub structures with multiple spokes) serve as central points managing multiple businesses, suggesting a concentration of business registration services among a few key agents in the state.
+- The graph reveals a hierarchical business registration structure in North Dakota where most X-named companies (shown as paired nodes) have single-point relationships with registered agents or owners, while a few prominent registered agents (shown as hub structures with multiple spokes) serve as central points managing multiple businesses, suggesting a concentration of business registration services among a few key agents/owners in the state.
