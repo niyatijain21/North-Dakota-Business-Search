@@ -7,5 +7,5 @@
 -  A graph was constructed depicting the relationships between the companies based on the labels - Commercial Registered Agent, Owner Name, Owners, Registered Agent. A graph library called NetworkX along with matplotlib was used for the same. The graph is stored as finalplot.png.
 
 **Takeaways:**
-- There were 182 active companies extracted that start with 'X'. I've identified this data quality aspect and am implementing additional filtering in the processing pipeline to ensure we focus specifically on X-prefixed companies.
+- There were 182 active companies extracted that start with 'X'. An additional filtering in the processing pipeline ensured we focus specifically on X-prefixed companies.
 - The graph reveals a hierarchical business registration structure in North Dakota where most X-named companies (shown as paired nodes) have single-point relationships with registered agents or owners, while a few prominent registered agents (shown as hub structures with multiple spokes) serve as central points managing multiple businesses, suggesting a concentration of business registration services among a few key agents in the state.
